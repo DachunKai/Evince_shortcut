@@ -1,4 +1,4 @@
-# Envice ShortCuts
+# Evince ShortCuts
 ubuntu自带pdf阅读器[Envice](https://wiki.gnome.org/Apps/Evince)，可轻量编辑pdf、高亮文本。一些快捷键如下(持续更新ing...)
 - F 显示PDF原来的文件比例
 - W 显示PDF文件在当前电脑上合适的比例
